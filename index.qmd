@@ -1,12 +1,35 @@
 ---
 title: "Alden Sears"
+image: IMG_8562.jpg
 about:
   template: trestles
-  
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: Bluesky
+      icon: bluesky
+      href: https://bsky.app/profile/luciferous-beefly.bsky.social
+      target: _blank
+    - text: GitHub
+      icon: github
+      href: https://github.com/AldenSears
+      target: _blank
+    - text: Email
+      icon: envelope
+      href: mailto:arsears3@ncsu.edu
+
 ---
 
-Hi! My name is Alden Sears. I am a fifth-year PhD student at North Carolina State University. My dissertation research centers on...
+I am a naturalist and philosopher, currently in the fifth year of my PhD at North Carolina State University. My work probes the relationships between plants and their associated insect communities to answer questions about how they coexist and the degree to which different interaction mechanisms reshape coexistence. 
 
-```{r}
-1 + 1
-```
+Beyond research, I have worked to develop effective mentoring skills and teaching materials to welcome the next generation of curious people into the biological sciences. Outside of work, I write transcendentalist poetry, run music exchanges with friends and peers, dabble in flower and insect photography, and optimize getting the best coffee flavors from bean to cup at home.
+
+
+
+
+
+
+
+
+
+
