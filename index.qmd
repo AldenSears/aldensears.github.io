@@ -1,10 +1,11 @@
 ---
-title: "home"
+title: "Alden Sears"
+about:
+  template: trestles
+  
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! My name is Alden Sears. I am a fifth-year PhD student at North Carolina State University. My dissertation research centers on...
 
 ```{r}
 1 + 1
